@@ -25,14 +25,14 @@ Senior Web3 Engineer and Tech Lead with **4+ years of blockchain development** (
 - Integrated smart contracts and shipped Unreal Engine client on Epic Games Store
 - Built wallet APIs and real-time in-game inventory sync
 
-**Stack:** Solidity, Hardhat, UE4/5, Node.js, React, IPFS, The Graph, MongoDB
+**Stack:** Solidity, Hardhat, UE4/5, Node.js, React, NestJS, IPFS, The Graph, MongoDB
 
 ### 📦 Open Source Projects
 
 - [**Full-Stack Auth App**](https://github.com/ophickedo/full-stack-example): Web2 app with JWT-based auth, CRUD, protected routes.
   - **Stack:** Next.js, TailwindCSS, HeroUI, NestJS, Prisma, PostgreSQL
 - [**Offline Voice Q&A Assistant**](https://github.com/ophickedo/telegram-voice-qna-llm): Converts speech to text (Whisper) + answers with local Mistral-7B LLM Supports 100+ languages, works fully offline - ideal for interviews & note-taking.
-  - **Stack:** Python, Whisper, GGUF/LLM, LangChain, Gradio
+  - **Stack:** Python, Whisper, Mistral-7B
 
 <!-- ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/yourprofile)  
