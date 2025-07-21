@@ -29,6 +29,8 @@ Senior Web3 Engineer and Tech Lead with **4+ years of blockchain development** (
 
 ### 📦 Open Source Projects
 
+- [**Quant-Verified TradingView PineScript Scripts**](https://github.com/ophickedo/tradingview-pine-scripts): Algorithmic trading strategies with 80%+ APY backtests, professional indicators & auto-trading signals for OKX (Webhook/API integration).
+  - **Stack:** TradingView, PineScript v6 
 - [**Full-Stack Auth App**](https://github.com/ophickedo/full-stack-example): Web2 app with JWT-based auth, CRUD, protected routes.
   - **Stack:** Next.js, TailwindCSS, HeroUI, NestJS, Prisma, PostgreSQL
 - [**Offline Voice Q&A Assistant**](https://github.com/ophickedo/telegram-voice-qna-llm): Converts speech to text (Whisper) + answers with local Mistral-7B LLM Supports 100+ languages, works fully offline - ideal for interviews & note-taking.
