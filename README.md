@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikita - Web3 Engineer & Tech Lead
+# 👋 Hi, I'm Web3 Engineer & Tech Lead
 
 Senior Web3 Engineer and Tech Lead with **4+ years of blockchain development** (Solidity, EVM, DeFi) and **6+ years in full-stack engineering**.
 
